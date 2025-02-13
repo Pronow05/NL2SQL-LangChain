@@ -1,4 +1,4 @@
-# **Natural Language to SQL Query Generation using LangChain and Comparing Various Promting Techniques(Zero-Shot, Few-Shot, COT, Self-Consistency) **
+# **Natural Language to SQL Query Generation using LangChain and Comparing Various Promting Techniques(Zero-Shot, Few-Shot, COT, Self-Consistency)**
 
 ## **1. Introduction**
 This project focuses on converting natural language (NL) questions into structured SQL queries using large language models (LLMs) with LangChain. The dataset used is from Kaggle, and PostgreSQL is employed for database management. The project explores various prompting techniques such as Zero-Shot, Few-Shot, Chain-of-Thought, and Self-Consistency to optimize query generation accuracy.
